@@ -16,7 +16,7 @@ Further data manipulation included removing rows with NAs and random selection o
 The data with 5000 rows was first partitioned into Traindata for training the  model and Testdata for final model fitting.
 The Traindata was further partitioned into Traindata1 and Traindata2 for model validation to asses the perfomance.
 
-From the two models the random forests method had higher accuracy and was used to fit the Testdata.
+The two models had approximately similar accuracies and were both used to fit the Testdata.
 
 
 
