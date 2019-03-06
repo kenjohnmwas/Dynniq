@@ -1,0 +1,2 @@
+# Dynniq
+Modelling Meetup attendance
