@@ -18,5 +18,7 @@ The Traindata was further partitioned into Traindata1 and Traindata2 for model v
 
 The two models had approximately similar accuracies and were both used to fit the Testdata.
 
+The decision tree predicted all out comes as "yes", possibly duue to overfitting.
 
+On the other hand the randomforest method was more varied with all possible levels predicted.
 
